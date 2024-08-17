@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{ width: 100%;
+    height: 100%;
+    
+    
+}
+
+
+
+.nav-link{
+    color: white;
+    margin: 2vw;
+}
+
+.list-one,
+.list-two,
+.list-three{
+    margin: 10px;
+}
+
+.section-two{
+    background-image: url('https://c8.alamy.com/comp/JBBRFM/cameraman-1-indian-young-girl-park-taking-photos-clicking-JBBRFM.jpg');
+    background-position: 0% 20%;
+
+    background-size: cover;
+
+}
